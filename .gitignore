@@ -1,0 +1,7 @@
+# LibreOffice lock files
+.~lock*
+
+# Distribution and intermediary formats
+*.mobi
+*.odt
+*.pdf
