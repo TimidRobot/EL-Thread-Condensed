@@ -2,11 +2,6 @@
 
 **Emotional Labor: The MetaFilter Thread Condensed**
 
-
-## What is this?
-
-This is a digest fo a MetaFilter thread about Emotional Labor.
-
 Management of the document was transfered to mods at
 [MetaTalk](http://metatalk.metafilter.com/) on 2016-01-14.
 
