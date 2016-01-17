@@ -19,8 +19,6 @@ Management of the document was transfered to mods at
 ## Public Resources
 
 - ["Where's My Cut": On Unpaid Emotional Labor](http://the-toast.net/2015/07/13/emotional-labor/view-all/) - The article that started the MetaFilter thread.
-- ["Where's My Cut": On Unpaid Emotional Labor | MetaFilter](http://www.metafilter.com/151267/Wheres-My-Cut-On-Unpaid-Emotional-Labor) - The MetaFilter thread that the document is a digest of.
-- [Should I Just Go Straight to Crone Island?](http://ask.metafilter.com/283202/Should-I-Just-Go-Straight-to-Crone-Island | Ask MetaFilter) - The Ask MetaFilter for continuing the conversation about Emotional Labor.
 
 
 ## Private Resources
