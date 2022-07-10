@@ -8,7 +8,7 @@ Management of the document was transfered to mods at
 
 ## PDF Version
 
-- [Emotional Labor: The MetaFilter Thread Condensed](https://drive.google.com/file/d/0B0UUYL6kaNeBTDBRbkJkeUtabEk/view?usp=sharing)
+- [Emotional Labor: The MetaFilter Thread Condensed](https://zehta.me/2015/10/emotional-labor/Emotional_Labor_-_The_MetaFilter_Thread_Condensed.pdf)
 
 
 ## Public Resources
